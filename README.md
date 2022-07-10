@@ -1,4 +1,4 @@
-# vue_day_08
+# music-demo
 
 ## Project setup
 ```
